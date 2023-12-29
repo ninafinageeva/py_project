@@ -1,5 +1,6 @@
 def get_summ(a=2, b=3):
     """
+    Функция складывает два  числа
     :param a:
     :param b:
     :return:
