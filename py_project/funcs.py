@@ -1,4 +1,4 @@
-def get_summ(a=2, b=3):
+def sum(a, b):
     """
     Функция складывает два  числа
     :param a:
@@ -6,8 +6,8 @@ def get_summ(a=2, b=3):
     :return:
     int: Результат сложения a и b
     """
-    return a + b
-
+    a = 2
+    b = 3
 def subtraction(a, b):
     """
     Функция для вычитания
